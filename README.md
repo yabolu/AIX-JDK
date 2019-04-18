@@ -38,7 +38,8 @@ Java7_64.jre
 下一步，选择“Install Software”，Enter
 下一步，在“INPUT device / directory for software”后面，写上要安装包的路径：
 /dbtool/java_software/java_jdk/Java7_64.sdk，
-或者: /dbtool/java_software/java_jdk/Java7_64.jre
+或者: 
+/dbtool/java_software/java_jdk/Java7_64.jre
 Enter 
 下一步，“accept new license agreements”把对应的"no"设置成“yes”
 下一步，确认界面，Enter
