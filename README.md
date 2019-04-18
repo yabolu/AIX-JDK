@@ -50,6 +50,9 @@ Enter
 /usr/java7_64/bin/java -version
 ```
 
+##### 参考文档
+[AIX系统安装JDK](https://my.oschina.net/liuyuanyuangogo/blog/881702)
+
 
 
 
