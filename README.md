@@ -1,0 +1,2 @@
+# AIX-JDK
+AIX 上 安装 JDK
